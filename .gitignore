@@ -1,0 +1,6 @@
+notebooks
+spotify_run/__pycache__
+spotify_run/.idea
+.idea
+models/
+embeddings/
